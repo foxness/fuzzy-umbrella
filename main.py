@@ -1,5 +1,11 @@
 import decimal
 
+# todo:
+# - add expression validity check
+# - add parenthesis support
+# - add exponent support
+# - add modulo support
+
 PRIORITY = [['*', '/'], ['+', '-']]
 
 print_internals = True
